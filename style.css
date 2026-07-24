@@ -143,3 +143,19 @@ text-decoration:underline;
 .boton:hover{
     background:#444;
 }
+#menu{
+    padding:50px 20px;
+    max-width:900px;
+    margin:auto;
+}
+
+.categoria{
+    background:#f7f7f7;
+    margin:20px 0;
+    padding:20px;
+    border-radius:12px;
+}
+
+.categoria h3{
+    margin-top:0;
+}
